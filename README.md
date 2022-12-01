@@ -7,6 +7,10 @@ I made this just for testing last month and it worked, I don't know if it's stil
 
 The code is very messy, I stopped working on it because I didn't needed it anymore but maybe someone who want to make a good working gen can use this for info or something idk.
 
+
+**I Don't know which was the working one, main.py is web api, test.py is mobile api.**
+
+
 There is also a working account inside so you see it workes/worked.
 
 ![image](https://user-images.githubusercontent.com/82040488/205120511-e0a9c06a-5ec0-4db3-9706-b5b195555341.png)
