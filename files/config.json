@@ -1,0 +1,5 @@
+{
+    "sms_api_key": "YOUR_SMS_API_KEY",
+    "webhook_url": "https://discord.com/api/webhooks/...."
+}
+  
