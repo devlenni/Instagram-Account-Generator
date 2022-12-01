@@ -6,3 +6,8 @@ With a real number it works fine but you have to find a phone provider which is 
 I made this just for testing last month and it worked, I don't know if it's still working. 
 
 The code is very messy, I stopped working on it because I didn't needed it anymore but maybe someone who want to make a good working gen can use this for info or something idk.
+
+There is also a working account inside so you see it workes/worked.
+
+![image](https://user-images.githubusercontent.com/82040488/205120511-e0a9c06a-5ec0-4db3-9706-b5b195555341.png)
+
